@@ -36,4 +36,20 @@ Includes the basic fields of a usual contact form.
 
 Aditionally, there is one css file inside the css folder which aplies styles over all pages.
 
+## Development Problemas
 
+I will divide the problems in two sections:
+
+### 1.Git and github
+
+Most of the obstacles I found along the way were related to the use of git and github, this was clearly a consecuence of my lack of expeience and knowledge of git.
+
+Some of the problems were for instance, the non compatibility between files due to slightly difenrent names, messing up the branches because of messy instructions on git and finally some trouble with the delivery of this work. So I finally opted for starting a new repo having this in mind.
+
+However, I used this frustration to motivate my self to learn more about git and github even furter, understanding now a better grasp of it.
+
+### HTML and CSS usage
+
+The issues encountered during the development sumarize in some trouble with showing certain images which I soon resolved by changing the format of the image files, and some messy code as I mixed in code forma a tutorial with some of my own. The problem was that I was not too awere of what the code I had from the tutorial did, so this led to much code being a bit confusing, but at the end I got more into this language and resolved all issues without further complication.
+
+## Conclusions
