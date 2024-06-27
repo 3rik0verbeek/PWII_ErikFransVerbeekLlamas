@@ -53,3 +53,19 @@ However, I used this frustration to motivate my self to learn more about git and
 The issues encountered during the development sumarize in some trouble with showing certain images which I soon resolved by changing the format of the image files, and some messy code as I mixed in code forma a tutorial with some of my own. The problem was that I was not too awere of what the code I had from the tutorial did, so this led to much code being a bit confusing, but at the end I got more into this language and resolved all issues without further complication.
 
 ## Conclusions
+
+Eventhough I studied some html at highschool a couple of years ago, I admit I could only remembered a few things, so this project has helped me refresh my memory and expand my knowledge about html but also css. In adition, I developed a better habit which I find crucial thowards a future project.
+
+At first I encountered some trouble with git, but I must admit I now love the idea and may even start publishing my code on a separate, personal acount, just to continue the good practice of sharing code and saving it online.
+
+The project was therefore highly beneficial for me, teaching me various technical content, but also to be more time awere and have time limits in mind as I initially had to rush this practice a bit, but finally I would say my work checks all the boxes.
+
+To sumarize some of the things I have learnt are:
+
+- I should organize the time I invest to my project better.
+
+- I should understand well what I am writing when coding and structure and organize it in a way which is easy to read.
+
+- I have learned to name all files according to an acronym
+
+- I have learned how to manage a software project using github
