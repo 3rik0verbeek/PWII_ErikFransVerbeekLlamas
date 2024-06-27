@@ -48,7 +48,7 @@ Some of the problems were for instance, the non compatibility between files due 
 
 However, I used this frustration to motivate my self to learn more about git and github even furter, understanding now a better grasp of it.
 
-### HTML and CSS usage
+### 2.HTML and CSS usage
 
 The issues encountered during the development sumarize in some trouble with showing certain images which I soon resolved by changing the format of the image files, and some messy code as I mixed in code forma a tutorial with some of my own. The problem was that I was not too awere of what the code I had from the tutorial did, so this led to much code being a bit confusing, but at the end I got more into this language and resolved all issues without further complication.
 
