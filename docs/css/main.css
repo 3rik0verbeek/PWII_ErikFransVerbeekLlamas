@@ -221,3 +221,8 @@ section {
     padding-bottom: 6rem;
 }
 
+.cv {
+	text-align: center;
+	padding: 10px;
+	background-color: #112e42;
+}
