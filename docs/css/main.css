@@ -230,8 +230,36 @@ section {
 
 
 .topic{
-    
+    flex: auto;
 }
+
+.subjects {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.course-table {
+    margin-left: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    text-align: left;
+    padding-bottom: 6rem;
+}
+
+
+#year_one, #year_three, #year_five {
+    background-color:#00abf0;
+    width: 121%;
+}
+#year_two, #year_four {
+    background-color: #112e42;
+    width: 121%;
+}
+
+
 
 .container {
     width: 80%;
